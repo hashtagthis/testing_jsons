@@ -1,0 +1,16 @@
+{
+    "preguntas": [
+        {
+            "pregunta": "¿Cómo te llamas?",
+            "respuesta1": "Jose Gustavo",
+            "respuesta2": "Carlos Augusto",
+            "respuesta3": "Sapo Eres"
+        },
+        {
+            "pregunta": "¿Tu equipo favorito?",
+            "respuesta1": "Oniversitario",
+            "respuesta2": "Alianza Mesa",
+            "respuesta3": "Sporting Criscat"
+        }
+    ]
+}
