@@ -1,0 +1,74 @@
+{
+    "preguntas": [
+        {
+            "pregunta": "¿Cuál de estas no es una Consigna Permanente?",
+            "respuesta1": "Los descuidos que ocasionan fallas o problemas graves",
+            "respuesta2": "Nunca abandonaré mi puesto de servicio sin la autorización de mi líder.",
+            "respuesta3": "Respetaré y haré cumplir las disposiciones de la empresa a la cual estoy asignado.",
+            "respuesta4": "Pondré todo mi cuidado en tratar bien el patrimonio de la empresa que esté o no bajo mi responsabilidad."
+        },
+        {
+            "pregunta": "¿Qué viene a ser de Liderman el siguiente párrafo? “Atender con máxima eficiencia, los asuntos de seguridad delegados por nuestros clientes, para que se puedan enfocar en su operación principal; destacándoles el mejor talento humano respaldado por la Cultura Liderman”.",
+            "respuesta1": "Misión",
+            "respuesta2": "Visión",
+            "respuesta3": "Sentido de Propósito",
+            "respuesta4": "Seguridad Contra Incendios"
+        },
+        {
+            "pregunta": "¿Cada cuánto se hacen las pausas activas?",
+            "respuesta1": "Realizar 5 minutos de ejercicios ergonómicos, cada 2 horas.",
+            "respuesta2": "Realizar 2 minutos de ejercicios ergonómicos, cada 5 horas.",
+            "respuesta3": "Realizar 4 minutos de ejercicios ergonómicos, cada 4 horas.",
+            "respuesta4": "Realizar 2 minutos de ejercicios ergonómicos, cada 4 horas."
+        },
+        {
+            "pregunta": "¿Cuál es nuestro Sentido de Propósito?",
+            "respuesta1": "Todo lo bien que hagamos o digamos, sea para ayudar bien al otro.",
+            "respuesta2": "Todo el bien al otro será por lo que hagamos o digamos para ayudarlo y ser feliz.",
+            "respuesta3": "Todo lo que hagamos o digamos, sea para ayudar a hacer feliz y el bien al otro.",
+            "respuesta4": "Todo lo que ayudamos, hagamos o digamos no hará felices y al otro."
+        },
+        {
+            "pregunta": "¿Qué es lo que perdona el cliente?",
+            "respuesta1": "El robo",
+            "respuesta2": "La mentira",
+            "respuesta3": "Trabajar en estado etílico",
+            "respuesta4": "N.A."
+        },
+        {
+            "pregunta": "¿Cuál de estos es uno de nuestros valores?",
+            "respuesta1": "Esperanza",
+            "respuesta2": "Trabajo en equipo",
+            "respuesta3": "Sencillez",
+            "respuesta4": "Humildad"
+        },
+        {
+            "pregunta": "¿Cuáles son nuestros Objetivos Estratégicos?",
+            "respuesta1": "Planificar, elaborar y ejecutar",
+            "respuesta2": "Controlar, implementar y reaccionar",
+            "respuesta3": "Incrementar, controlar y mejorar",
+            "respuesta4": "Seleccionar, capacitar y supervisar"
+        },
+        {
+            "pregunta": "¿Qué clases de incendios contemplan nuestro Pasaporte Liderman?",
+            "respuesta1": "AB, BC, CD, DE y JK",
+            "respuesta2": "A, B, C, D y K",
+            "respuesta3": "A, B, C, D y F",
+            "respuesta4": "B, C, D, E y A1"
+        },
+        {
+            "pregunta": "¿Cuánto anexos tiene el Folder LAR’S?",
+            "respuesta1": "7",
+            "respuesta2": "9",
+            "respuesta3": "4",
+            "respuesta4": "6"
+        },
+        {
+            "pregunta": "¿Cuántas son nuestras consignas permanentes?",
+            "respuesta1": "10",
+            "respuesta2": "9",
+            "respuesta3": "7",
+            "respuesta4": "Ninguna de las anteriores."
+        }
+    ]
+}
