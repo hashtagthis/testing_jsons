@@ -64,11 +64,193 @@
             "respuesta4": "6"
         },
         {
-            "pregunta": "¿Cuántas son nuestras consignas permanentes?",
-            "respuesta1": "10",
-            "respuesta2": "9",
-            "respuesta3": "7",
+            "pregunta": "¿Qué viene a ser de Liderman el siguiente párrafo? “Brindar un servicio especializado, priorizando la calidad, cuidado del medio ambiente, protección de la vida y salud; para superar las necesidades conocidas y no conocidas aún por nuestros clientes”.",
+            "respuesta1": "Misión",
+            "respuesta2": "Visión",
+            "respuesta3": "Sentido de Propósito",
+            "respuesta4": "Consignas Permanente"
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes no figura en “Lo que no perdona el cliente”? ",
+            "respuesta1": "El robo",
+            "respuesta2": "La mentira",
+            "respuesta3": "La mala intensión en actos y palabras",
+            "respuesta4": "Los accidentes causados por descuidos del cliente"
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes no corresponde a un valor de Liderman?",
+            "respuesta1": "Honestidad",
+            "respuesta2": "Creatividad e Innovación",
+            "respuesta3": "Solidaridad",
+            "respuesta4": "Felicidad"
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes no figura en “Lo que no perdona el cliente”? ",
+            "respuesta1": "Los descuidos que ocasionan fallas o problemas graves",
+            "respuesta2": "No cumplir las normas de seguridad y salud en el trabajo",
+            "respuesta3": "Descuidos leves, frecuentes o repetitivos que desgastan el servicio",
+            "respuesta4": "Abandonar el puesto de servicio"
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes no corresponde a un valor de Liderman?",
+            "respuesta1": "Comunicación",
+            "respuesta2": "Vocación por el compromiso",
+            "respuesta3": "Trabajo en equipo",
+            "respuesta4": "Sentido del humor"
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes no figura en “Lo que no perdona el cliente”? ",
+            "respuesta1": "Los accidentes causados por manipulación de armas",
+            "respuesta2": "Descuidos leves, frecuentes o repetitivos que desgastan el servicio",
+            "respuesta3": "Abandonar el puesto de servicio",
+            "respuesta4": "No trabajar en estado etílico"
+        },
+        {
+            "pregunta": "¿En qué documento figuran los teléfonos de emergencia?",
+            "respuesta1": "Folder SGI",
+            "respuesta2": "Folder LAR’s",
+            "respuesta3": "Directorio de la empresa",
+            "respuesta4": "Ninguna de las anteriores"
+        },
+        {
+            "pregunta": "¿Qué sección del pasaporte Liderman contempla la siguiente expresión? “Me conduciré honradamente. Nunca permitiré robos y engaños”",
+            "respuesta1": "Lo que no perdona un cliente",
+            "respuesta2": "Folder LAR’s",
+            "respuesta3": "Consignas Permanentes",
+            "respuesta4": "Política Integrada"
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes no es una Consigna Permanente?",
+            "respuesta1": "Nunca me descuidaré por pensar o hacer cosas ajenas al servicio.",
+            "respuesta2": "Respetaré y haré cumplir las disposiciones de la empresa a la cual estoy asignado.",
+            "respuesta3": "En caso de robo nunca debo hacer uso de mi arma.",
+            "respuesta4": "Nunca jugaré ni haré uso indebido de mi arma o equipo."
+        },
+        {
+            "pregunta": "¿Qué sección del pasaporte Liderman contempla la siguiente expresión? “Es mi obligación informar inmediatamente al líder cualquier irregularidad cometida por compañeros de trabajo o trabajadores de la empresa.”",
+            "respuesta1": "Lo que no perdona un cliente",
+            "respuesta2": "Folder LAR’s",
+            "respuesta3": "Política Integrada",
+            "respuesta4": "Consignas Permanentes"
+        },
+        {
+            "pregunta": "¿En cuál de los siguientes anexos figura el PRI (Puesto de reacción inmediata)?",
+            "respuesta1": "Anexo 1 del folder LAR’s",
+            "respuesta2": "Anexo 1 del folder SGI",
+            "respuesta3": "Anexo 2 del folder LAR’s",
+            "respuesta4": "Anexo 2 del folder SGI"
+        },
+        {
+            "pregunta": "¿En cuál de los siguientes anexos figura el plano de extintores y señalética?",
+            "respuesta1": "Anexo 4 del folder LAR’s",
+            "respuesta2": "Anexo 4 del folder SGI",
+            "respuesta3": "Anexo 3 del folder LAR’s",
+            "respuesta4": "Anexo 3 del folder SGI"
+        },
+        {
+            "pregunta": "¿Qué contempla el anexo 7 del folder LAR’s?",
+            "respuesta1": "Teléfonos de emergencia",
+            "respuesta2": "Inventario de extintores y gabinete contra incendios.",
+            "respuesta3": "Matriz de Riesgo - Medioambiental",
+            "respuesta4": "Puesto de reacción inmediata"
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes no es parte del folder LAR’s?",
+            "respuesta1": "Análisis de riesgo",
+            "respuesta2": "Plano de Extintores y Señalética",
+            "respuesta3": "Matriz de Riesgo – Seguridad y Salud Ocupacional",
+            "respuesta4": "Funciones Específicas por puesto"
+        },
+        {
+            "pregunta": "¿La política de Gestión Integrada se encuentra en el folder SGI?",
+            "respuesta1": "Verdadero",
+            "respuesta2": "Falso, se encuentra en el folder LAR’s",
+            "respuesta3": "Falso, se encuentra en las consignas permanentes",
             "respuesta4": "Ninguna de las anteriores."
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes puntos no figura en folder SGI?",
+            "respuesta1": "Caritas Felices",
+            "respuesta2": "Misión y Visión",
+            "respuesta3": "Lo que no perdona el cliente",
+            "respuesta4": "Valores"
+        },
+        {
+            "pregunta": "¿Qué sección del pasaporte Liderman contempla la siguiente expresión? “Incrementar la competitividad en el mercado nacional al brindar servicios de seguridad privada”",
+            "respuesta1": "Objetivos estratégicos",
+            "respuesta2": "Consigna Permanente",
+            "respuesta3": "Calidad Operativa",
+            "respuesta4": "Misión"
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes no es un objetivo estratégico?",
+            "respuesta1": "Incrementar la competitividad en el mercado nacional al brindar servicios de seguridad privada.",
+            "respuesta2": "Controlar el consumo de los servicios básicos (Luz, agua, papel)",
+            "respuesta3": "Mejorar las condiciones de seguridad, salud y ambiente de trabajo para todos los colaboradores. ",
+            "respuesta4": "Todo lo que hagamos o digamos, sea para ayudar a hacer feliz y el bien al otro."
+        },
+        {
+            "pregunta": "¿Qué sección del pasaporte Liderman contempla la siguiente expresión? “Doy servicio de seguridad, cumpliendo las disposiciones del cliente, cuidando el medio ambiente, cuidando mi integridad y salud, usando mis EPP, mejorando día a día porque Liderman me capacita.”",
+            "respuesta1": "Misión",
+            "respuesta2": "Visión",
+            "respuesta3": "Política Integrada",
+            "respuesta4": "Objetivo Estratégico"
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes no es un punto de calidad operativa?",
+            "respuesta1": "Selección - Perfil de acuerdo al requerimiento del cliente.",
+            "respuesta2": "Capacitación - Identificar las debilidades del servicio y capacitar en ello.",
+            "respuesta3": "Trabajo en Equipo - Promover la colaboración entre los miembros de la unidad.",
+            "respuesta4": "Valor Agregado -  Generar apoyo al cliente a costo cero."
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes no es un elemento que compone el fuego?",
+            "respuesta1": "Oxígeno",
+            "respuesta2": "Calor",
+            "respuesta3": "Combustible",
+            "respuesta4": "Hidrógeno"
+        },
+        {
+            "pregunta": "¿Dentro de la seguridad contra incendios cómo se define a la reacción en cadena?",
+            "respuesta1": "Es el oxígeno que se encuentra en el ambiente.",
+            "respuesta2": "Es la combinación de oxígeno, calor y combustible.",
+            "respuesta3": "Es la temperatura suficiente para lograr y producir fuego.",
+            "respuesta4": "Es el elemento principal que genera la combustión, puede encontrarse en estado sólido, líquido o gaseoso."
+        },
+        {
+            "pregunta": "¿Qué produce el incendio de clase D?",
+            "respuesta1": "Equipos o máquinas energizadas.",
+            "respuesta2": "Combustibles sólidos inflamables (madera, papel, plásticos, otros)",
+            "respuesta3": "Metales combustibles inflamables (potasio, sodio, magnesio, otros).",
+            "respuesta4": "Combustibles líquidos y gas inflamable (petróleo, diesel, GLP, gasolina, bencina, alcohol, otros)"
+        },
+        {
+            "pregunta": "Ante un incendio producido por combustibles sólidos inflamables como madera plástico o papel ¿qué tipo de extintor debo utilizar?",
+            "respuesta1": "Agua Presurizada",
+            "respuesta2": "Agua Desionizada",
+            "respuesta3": "PQS",
+            "respuesta4": "La a y b"
+        },
+        {
+            "pregunta": "Ante un incendio producido por aceites y grasas vegetales ¿qué tipo de extintor debo utilizar?",
+            "respuesta1": "Agua Presurizada",
+            "respuesta2": "Acetato de Potasio",
+            "respuesta3": "CO2",
+            "respuesta4": "PQS"
+        },
+        {
+            "pregunta": "¿A cuál de los siguientes corresponde la inmovilización del accidentado, pedir ayuda y evacuarlo?",
+            "respuesta1": "Fracturas",
+            "respuesta2": "Hemorragias",
+            "respuesta3": "Atragantamiento",
+            "respuesta4": "Reanimación Cardio Pulmonar (RCP)"
+        },
+        {
+            "pregunta": "¿Cuál de los siguientes ayuda a fomentar un comercio internacional seguro?",
+            "respuesta1": "ISO 9001:2015",
+            "respuesta2": "ISO 14001:2015",
+            "respuesta3": "BASC",
+            "respuesta4": "OHSAS 18001:2007"
         }
     ]
 }
